@@ -1,0 +1,1 @@
+{"message":"Empty value found for query parameter 'c'","errors":[{"path":".query.c","message":"Empty value found for query parameter 'c'"}]}
