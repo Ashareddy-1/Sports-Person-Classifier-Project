@@ -18,7 +18,7 @@ A full-stack web application that classifies images of sports persons using a tr
 
 │   ├── dropzone.min.css/js     # DropzoneJS for drag & drop uploads
 
-│
+
 ├── model/                      # Model-related resources
 
 │   ├── dataset/                # Dataset folder (likely used for training)
@@ -34,7 +34,7 @@ A full-stack web application that classifies images of sports persons using a tr
 │   ├── sports_person_classifier_model.py  # Training or testing script
 
 │   ├── requirements.txt        # Python dependencies
-│
+
 ├── server/                     # Backend server logic
 
 │   ├── artifacts/              # Model & dictionary for production
@@ -70,7 +70,7 @@ A full-stack web application that classifies images of sports persons using a tr
 1. Clone the Repository
 
 2. Create a Virtual Environment
-3. 
+   
 python -m venv venv
 
 source venv/bin/activate   # On Windows: venv\Scripts\activate
